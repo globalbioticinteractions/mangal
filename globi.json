@@ -1,0 +1,6 @@
+{ 
+  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
+  "format": "mangal",
+  "citation": "https://mangal.io - the ecological interaction database.",
+  "shouldResolveReferences": false
+}
