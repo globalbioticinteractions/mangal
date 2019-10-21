@@ -1,4 +1,4 @@
-source_interaction_type_name,source_interaction_type_id,target_interaction_type_label,target_interaction_type_id
+source_interaction_type_label,source_interaction_type_id,target_interaction_type_label,target_interaction_type_id
 competition,,ecologically related to,http://purl.obolibrary.org/obo/RO_0002321
 detritivore,,eats,http://purl.obolibrary.org/obo/RO_0002470
 herbivory,,eats,http://purl.obolibrary.org/obo/RO_0002470
