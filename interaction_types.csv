@@ -1,0 +1,10 @@
+source_interaction_type_name,source_interaction_type_id,target_interaction_type_label,target_interaction_type_id
+competition,,ecologically related to,http://purl.obolibrary.org/obo/RO_0002321
+detritivore,,eats,http://purl.obolibrary.org/obo/RO_0002470
+herbivory,,eats,http://purl.obolibrary.org/obo/RO_0002470
+mutualism,,mutualist of,http://purl.obolibrary.org/obo/RO_0002442
+parasitism,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+predation,,preys on,http://purl.obolibrary.org/obo/RO_0002439
+scavenger,,eats,http://purl.obolibrary.org/obo/RO_0002470
+symbiosis,,symbiont of,http://purl.obolibrary.org/obo/RO_0002440
+unspecified,,ecologically related to,http://purl.obolibrary.org/obo/RO_0002321
